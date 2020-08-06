@@ -2,3 +2,4 @@ Hello
 Hi
 Welcome
 Namaste
+Pranaam
